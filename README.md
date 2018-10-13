@@ -24,8 +24,9 @@ In a similar way that WordPress liberates web site creation to the masses, the p
 * Will create a better end user SocialMedia experience by introducing competition both aginast Facebook and also between ThirdParties.
 
 **Why it isn't just another Social Media Platform**
-1- **Publisher v Provider**: Facebook will one day go to far and run afoul of regulators and will be classed as a publisher. Open-FB hosts no content and just connects users, so it will always be classed as a Platform.
-2- **Privacy** Facebook already collects your location and who you call. open-FB assumes that users will become uncomforatbale with unaccountable Companies having access to all fo their data. Open-FB allows 
+1 **Publisher v Provider**: Facebook will one day go to far and run afoul of regulators and will be classed as a publisher. Open-FB hosts no content and just connects users, so it will always be classed as a Platform.
+2 **Privacy** Facebook already collects your location and who you call. open-FB __assumes__ that users will become uncomforatbale with unaccountable Companies having access to all fo their data. Open-FB allows.
+3 **De-Monopolization**  __assumption__
 
 
 **Key Aspects:**
@@ -59,7 +60,7 @@ Users can flag/downvote users. Reords will be kept for ThirdParties use. For exa
 * Create Integrations with CloudStorage providers.
 * Create Transfer Protocol/API to communicate between different hosted profiles for viewing, commenting, chatting.
 * Create MainSite and Registration Databse and credentials and storing UserVoting
-* Create REgistration of ThirdParties to allow Data sharing to ThirdParties.
+* Create Registration of ThirdParties to allow Data sharing to ThirdParties.
 
 
 **Problems to Solve:**
