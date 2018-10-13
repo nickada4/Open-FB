@@ -4,7 +4,7 @@ Self-Hosted Free Market Facebook
 Currently in Pre-Launch
 
 PreLaunch Oct18:
-Seeking expression of interest.
+Seeking expressions of interest.
 
 Working Conduct Standard:
 (Positive Talk Only)
