@@ -7,11 +7,11 @@ PreLaunch Oct18:
 Seeking expression of interest.
 
 Working Conduct Standard:
-Positive Talk Only
-Bad: "You are stupid"
-Better: "That idea is stupid"
-Good: "That idea is bad because..."
-Positive Talk Only: "I think a better way to do this would be..."
+(Positive Talk Only)
+Bad: "You are stupid".
+Better: "That idea is stupid".
+Good: "That idea is bad because...".
+Positive Talk Only: "I think a better way to do this would be...".
 
 Objective:
 To replace the monopoly which Facebook has over social media.
