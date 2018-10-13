@@ -23,6 +23,11 @@ In a similar way that WordPress liberates web site creation to the masses, the p
 * Prevents any single cooporation controlling Social Media to interfere with elections.
 * Will create a better end user SocialMedia experience by introducing competition both aginast Facebook and also between ThirdParties.
 
+**Why it isn't just another Social Media Platform**
+1- **Publisher v Provider**: Facebook will one day go to far and run afoul of regulators and will be classed as a publisher. Open-FB hosts no content and just connects users, so it will always be classed as a Platform.
+2- **Privacy** Facebook already collects your location and who you call. open-FB assumes that users will become uncomforatbale with unaccountable Companies having access to all fo their data. Open-FB allows 
+
+
 **Key Aspects:**
 * MainSite: This is where people can register their username and credentials.
 * Connectivity: This allows for users to search for other registered users and sync data to see each others posts.
@@ -40,6 +45,10 @@ Some ThirdParties may allow you to use other ThirdParties concurrently. Some may
 One rule to be enforced on ThirdParties is that they must provide the clients data if the client wishes to migrate.
 The aim is that competion between the ThirdParties will drive development of better quality services. 
 Niche ThirdParties will be created to offer specilised functions, for example a ThirdParty may focus on ensuring screened Content and Secuirty for young users. 
+
+**Privacy**
+* **Self-Hosting** Security and Privacy conscious users can host their profile in CloudStorage like sync.com with zero-knowledge storage and end-to-end encryption. Also the use of comunication between sites via TOR if desired will maintian privacy.
+* **Third-Party Hosting** ThirdsParties can offer different levels of security and users can choose a ThirdParty that is offering the level which they require.
 
 **Administration:**
 Users can flag/downvote users. Reords will be kept for ThirdParties use. For example if a user is repeatedly Flagged for Hate Speech then you might use a ThirdParty who filters HateSpeech. Or you may choose a free speech ThirdParty that offers no restrictions. Users will have choice.
