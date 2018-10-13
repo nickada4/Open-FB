@@ -12,6 +12,7 @@ Positive Talk Only
 Objective:
 To replace the monopoly which Facebook has over social media.
 To create a platform which delivers choices to end users about how their mdeia is presented and how it is hosted.
+https://www.youtube.com/watch?v=nMR5Mud64TY
 
 Synopsis: 
 In a similar way that WordPress liberates web site creation to the masses, the plan is to have an super-streamline type of installation that allows the creation of a social media profile. The installation is envisioned to be self-hosted on CloudStorage or hosted by ThirdParties. 
@@ -26,6 +27,7 @@ Key Aspects:
 *Connectivity: This allows for users to search for other registered users and sync data to see each others posts.
 *NewFeeds: This will be outsorced to the FreeMarket for ThirdParties to fill. (See ThirdParties below.)
 *Hosting: This can be Self-Hosted via CloudStorage, or on TradionalServers (like WordPress). ThirdParties may also offer Hosting included.
+*Tagging and upvoting on Tags to allow filtering by ThirdPArties based on UserVoting.
 
 ThirdParties:
 You will be able to log into a ThirdParty website to view your NewsFeed.
@@ -44,8 +46,9 @@ Administration:
 Tasks:
 *Create installation package to control one's profile and share.
 *Create Integrations with CloudStorage providers.
-*Create Transfer Protocol to communicate between different hosted profiles for viewing, commenting, chatting.
-*
+*Create Transfer Protocol/API to communicate between different hosted profiles for viewing, commenting, chatting.
+*Create MainSite and Registration Databse and credentials and storing UserVoting
+*Create REgistration of ThirdParties to allow Data sharing to ThirdParties.
 
 
 Problems to Solve:
@@ -54,5 +57,5 @@ Problems to Solve:
  
 How to Contribute in PreLaunch
 *Register your interest
-*Join Discussion about implemention, ideas, strategies, languages.
+*Join Discussion about implemention, ideas, strategies, languages, which license to use etc.
 
