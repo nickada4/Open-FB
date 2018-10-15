@@ -12,8 +12,10 @@ Currently Oct18 in **Pre-Launch** Seeking expressions of interest.
 
 **Objective:**
 To replace the monopoly which Facebook has over social media.
-To create a platform which delivers choices to end users about how their mdeia is presented and how it is hosted.
+To create a platform which delivers choices to end users about how their media is presented and how it is hosted.
+To allow free market competition between ThirdParties to drive innovation.
 https://www.youtube.com/watch?v=nMR5Mud64TY
+https://medium.com/@caityjohnstone/internet-censorship-just-took-an-unprecedented-leap-forward-and-hardly-anyone-noticed-e6ae2d8adaf2?fbclid=IwAR1MFty9KyowKkgkTvpgl1cdjyT3l59aJRlLveeP5gDJVXTEgGh3GiWWLKM
 
 **Synopsis:** 
 In a similar way that WordPress liberates web site creation to the masses, the plan is to have an super-streamline type of installation that allows the creation of a social media profile. The installation is envisioned to be self-hosted on CloudStorage or hosted by ThirdParties. 
@@ -25,8 +27,8 @@ In a similar way that WordPress liberates web site creation to the masses, the p
 
 **Why it isn't just another Social Media Platform**
 1 **Publisher v Provider**: Facebook will one day go to far and run afoul of regulators and will be classed as a publisher. Open-FB hosts no content and just connects users, so it will always be classed as a Platform.
-2 **Privacy** Facebook already collects your location and who you call. open-FB __assumes__ that users will become uncomforatbale with unaccountable Companies having access to all fo their data. Open-FB allows.
-3 **De-Monopolization**  __assumption__
+2 **Privacy** Facebook already collects your location and who you call. open-FB _assumes_ that users will become uncomforatbale with unaccountable Companies having access to all fo their data. Open-FB allows.
+3 **De-Monopolization**  _assumption_
 
 
 **Key Aspects:**
